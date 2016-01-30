@@ -1,0 +1,37 @@
+type("aaa")
+type(False)
+type(2+3i)
+type("aaa"+1)
+type(2+3.3)
+"aaa"[0]
+"abc"[3]
+"abc"[-1]
+"abc"[-2]
+"abc"[-4]
+"abc"[-3]
+input("what is your name ?")
+input("what is your name ?")
+input("what is your age ?")
+input("what is your name ?")
+input("what is your name ?")
+typeinput(("your name ?"))
+type(input("your name ?"))
+'aaa'
+'aa'a'
+[0,1,2]
+type(("cc",2))
+a=[1,2][3,4]
+a=[31,2][1]
+[31,2][1]
+%hist
+%hist?
+%history?
+%history?
+%history -f history.txt
+cd ~
+cd workshop
+ls
+%history -f history.txt
+cd
+cd workshop
+%history -f history.txt
